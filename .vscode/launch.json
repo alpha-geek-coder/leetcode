@@ -1,0 +1,1632 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CombinationSumII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CombinationSumII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MagicSquareInGrid",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MagicSquareInGrid",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "IntegerToWords",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.IntegerToWords",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinimumPushesToTypeWordII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinimumPushesToTypeWordII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinimumSwapsToGroupAllOnes",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinimumSwapsToGroupAllOnes",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FillingBookcaseShelves",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FillingBookcaseShelves",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinimumDeletionToBalance",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinimumDeletionToBalance",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ScanInput",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ScanInput",
+            "projectName": "leetcode",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddStrings",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.AddStrings",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "AddToArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.AddToArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.AddTwoNumbers",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "AllPathsFromSourceToTarget",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.AllPathsFromSourceToTarget",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ArrayStringAreEqual",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ArrayStringAreEqual",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "AsFarFromLandAsPossible",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.AsFarFromLandAsPossible",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "AsteroidCollision",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.AsteroidCollision",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BSTSequences",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BSTSequences",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BalanceSplitString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BalanceSplitString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BallFall",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BallFall",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BestTeamScore",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BestTeamScore",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BinaryExponentiation",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BinaryExponentiation",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BinarySubarraysSum",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BinarySubarraysSum",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BinaryToString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BinaryWatch",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BinaryWatch",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "BitInsertion",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.BitInsertion",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.Calculator",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Cards",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.Cards",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ChampagneTower",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ChampagneTower",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CheckSubtree",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CheckSubtree",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ClosestNodeToTwoNodes",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ClosestNodeToTwoNodes",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CoinChangeII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CoinChangeII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CombinationSumIV",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CombinationSumIV",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CommonAncestorBST",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CommonAncestorBST",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CommonCharacters",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CommonCharacters",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ContainsDuplicateII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ContainsDuplicateII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ContinuousSubArraySum",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ContinuousSubArraySum",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountAndSay",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountAndSay",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountCompleteSubstrings",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountCompleteSubstrings",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountNicePairsInArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountNicePairsInArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountNodesInCompleteBinaryTree",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountNodesInCompleteBinaryTree",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountNumberOfTeams",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountNumberOfTeams",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountRangeOfSum",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountRangeOfSum",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountSubArrays",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountSubArrays",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountSubarrayScoreLessThanK",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountSubarrayScoreLessThanK",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CountUniqueChars",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CountUniqueChars",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CourseScheduleIII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CourseScheduleIII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CreateMaximumNumber",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.CreateMaximumNumber",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "DataStreamAsDisJointSet",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.DataStreamAsDisJointSet",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "DecodeStringAtIndex",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.DecodeStringAtIndex",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "DistanceLimitedPathExists",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.DistanceLimitedPathExists",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "DivideArrayIntoSetsOfK",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.DivideArrayIntoSetsOfK",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "DivideTwoIntegers",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.DivideTwoIntegers",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "EarliestPossibleDayOfFullBloom",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.EarliestPossibleDayOfFullBloom",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "EqualPairs",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.EqualPairs",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddTree",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.EvenOddTree",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FactorialTrailingZeroes",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FactorialTrailingZeroes",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FindFirstOccurenceIndex",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FindFirstOccurenceIndex",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FindJudge",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FindJudge",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FindKClosestElement",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FindKClosestElement",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastOccurenceIndex",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FirstAndLastOccurenceIndex",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastPositionOfElement",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FirstAndLastPositionOfElement",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FirstMissingPositive",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FirstMissingPositive",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FourSum",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FourSum",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FractionInString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FractionInString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "FruitsInBasket",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.FruitsInBasket",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "GCDofString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.GCDofString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "GroupAnagrams",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.GroupAnagrams",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "IPO",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.IPO",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ImageOverlaps",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ImageOverlaps",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "IncreasingSubsequence",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.IncreasingSubsequence",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "InsertInterval",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.InsertInterval",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "IntegerToHexadecimal",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.IntegerToHexadecimal",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "IntegerToRoman",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.IntegerToRoman",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionOfTwoArrays",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.IntersectionOfTwoArrays",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "JumpGame2",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.JumpGame2",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "JumpGame4",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.JumpGame4",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "JumpGame7",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.JumpGame7",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "KdiffPairs",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.KdiffPairs",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "KradiusSubArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.KradiusSubArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallestPrimeFraction",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.KthSmallestPrimeFraction",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "KweakestRowInMatrix",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.KweakestRowInMatrix",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LargestRectangleArea",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LargestRectangleArea",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LeastNumberOfUniqueInts",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LeastNumberOfUniqueInts",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.Leetcode",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListCycleII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LinkedListCycleII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongPressedName",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongPressedName",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongestConsecutiveSequence",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongestIdealString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongestIdealString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongestPalindromeByConcat",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongestPalindromeByConcat",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongestPalindromicSubstring",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongestPalindromicSubstring",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongestRepeatingChars",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongestRepeatingChars",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongestValidObstacleCourseAtEachPosition",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongestValidObstacleCourseAtEachPosition",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongestWordInDictionary",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongestWordInDictionary",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "LongestWordInDictionaryThroughDeletion",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.LongestWordInDictionaryThroughDeletion",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MakeTheStringGreat",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MakeTheStringGreat",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MatrixDistance",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MatrixDistance",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaxLengthSubsequenceWithUniqueChars",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaxLengthSubsequenceWithUniqueChars",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaxNumberOfKsumPairs",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaxNumberOfKsumPairs",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaxProduct",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaxProduct",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaxProfitInScheduling",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaxProfitInScheduling",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaxTotalImportanceOfRoads",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaxTotalImportanceOfRoads",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaxValueKCoins",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaxValueKCoins",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaximalRectangle",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaximalRectangle",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Maximum69Number",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.Maximum69Number",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaximumAverageSubArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaximumAverageSubArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaximumBagsWithFullCapacity",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaximumBagsWithFullCapacity",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaximumFreqScoreOfSubarray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaximumFreqScoreOfSubarray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaximumFrequencyStack",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaximumFrequencyStack",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSumCircularSubarray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaximumSumCircularSubarray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSumQueries",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MaximumSumQueries",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MedianFinder",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MedianFinder",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MedianOfTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MedianOfTwoSortedArrays",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MergeKSortedList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MergeKSortedList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MergeSort",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinChangesToMake",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinChangesToMake",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinCostToConnectAllPoints",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinCostToConnectAllPoints",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinDeletionCharFreq",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinDeletionCharFreq",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinOperationsToMakeArrayContinuous",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinOperationsToMakeArrayContinuous",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinOperationsToReduceXtoZero",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinOperationsToReduceXtoZero",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinSubstringWithoutDuplicates",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinSubstringWithoutDuplicates",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinWindowSubstr",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinWindowSubstr",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinWindowSubstring",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinWindowSubstring",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinXOROperationsEqualsToK",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinXOROperationsEqualsToK",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinimumArrowsShot",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinimumArrowsShot",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinimumAverageDifference",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinimumAverageDifference",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinimumTimeToCompleteTrips",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinimumTimeToCompleteTrips",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinimumWindowSubstring",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinimumWindowSubstring",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MinimunDeviation",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MinimunDeviation",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MissingRanges",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MissingRanges",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MostStonesRemoved",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MostStonesRemoved",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "MyAtoi",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.MyAtoi",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "NearestExitFromEntrance",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.NearestExitFromEntrance",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterElementIV",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.NextGreaterElementIV",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "NumArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.NumArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfGoodPaths",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.NumberOfGoodPaths",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfSubsequenceWithSum",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.NumberOfSubsequenceWithSum",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "NumberofLongestIncreasingSubsequence",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.NumberofLongestIncreasingSubsequence",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenLinkedList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.OddEvenLinkedList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "OneThreeTwoPattern",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.OneThreeTwoPattern",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeLinkedList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PalindromeLinkedList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PalindromePartitioning",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PalindromePartitioning",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicSubseqs",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PalindromicSubseqs",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PartitionList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PartitionList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PathSumIII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PathSumIII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquares",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PerfectSquares",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PermutationOFArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PermutationOFArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Permutations",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.Permutations",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PermutationsInString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PermutationsInString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PermutationsOfString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PermutationsOfString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PhoneNumberCombinations",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PhoneNumberCombinations",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "PossibleBipartisan",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.PossibleBipartisan",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ProductofArrayExceptSelf",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ProductofArrayExceptSelf",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RandomizedSet",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RandomizedSet",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReOrderList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReOrderList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReconstructItinerary",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReconstructItinerary",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDupsFromSortedList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RemoveDupsFromSortedList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDupsFromSortedListII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RemoveDupsFromSortedListII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RemoveNthNodeFromEndofList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RemoveNthNodeFromEndofList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RemoveStoneToMinimizeTotal",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RemoveStoneToMinimizeTotal",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReorganizeString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReorganizeString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RepeatedSubstring",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RepeatedSubstring",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RestoreIP",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RestoreIP",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RestoreTheArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RestoreTheArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReverseBinary",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReverseBinary",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLinkedListII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReverseLinkedListII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNodeInKGroups",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReverseNodeInKGroups",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNodesInKGroups",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReverseNodesInKGroups",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReverseOnlyLetters",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReverseOnlyLetters",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStringII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReverseStringII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWords",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ReverseWords",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RomanToInteger",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RomanToInteger",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RotateList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RotateList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "RotateString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.RotateString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SearchInRotatedArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SearchMatrix",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SearchMatrix",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SearchSuggestions",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SearchSuggestions",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SegmentTree",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SegmentTree",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SequentialDigits",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SequentialDigits",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ShortestCompletingWord",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ShortestCompletingWord",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ShortestDistanceToChar",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ShortestDistanceToChar",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SingleThreadedCPU",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SingleThreadedCPU",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMaximum",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SlidingWindowMaximum",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMedian",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SlidingWindowMedian",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SmallestRangeCoveringKLists",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SmallestRangeCoveringKLists",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SnakesAndLadder",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SnakesAndLadder",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SolvingQuestionWithBrainPower",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SolvingQuestionWithBrainPower",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SortArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SortArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SortArrayByOrderOfAnotherArray",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SortArrayByOrderOfAnotherArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SortJumbledNumbers",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SortJumbledNumbers",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SortLinkedList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SortLinkedList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SortList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SortList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SortPairedArrays",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SortPairedArrays",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SortStringByFreq",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SortStringByFreq",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SortVowelsInString",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SortVowelsInString",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SpiralMatrix",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrixII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SpiralMatrixII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SplitTwoStringToMakePalindrome",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SplitTwoStringToMakePalindrome",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "StockSpanner",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.StockSpanner",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.StringCompression",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SubStringHash",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SubStringHash",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SubStringWithConcatenationOfAllWords",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SubStringWithConcatenationOfAllWords",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SubarraySumEqualsK",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SubarraySumEqualsK",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SubtreeSameLabel",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SubtreeSameLabel",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDistancesInTree",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SumOfDistancesInTree",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SumOfSubarrayMinimums",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SumOfSubarrayMinimums",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SummaryRanges",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SummaryRanges",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SumofTotalStrength",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SumofTotalStrength",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "SwappingNodesInALinkedList",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.SwappingNodesInALinkedList",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "TaskScheduler",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.TaskScheduler",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "TextJustification",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.TextJustification",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSumClosest",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ThreeSumClosest",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "TopKWordFrequency",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.TopKWordFrequency",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "TotalCostToHire",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.TotalCostToHire",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Transpose",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.Transpose",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "TrapRainWater",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.TrapRainWater",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Trie",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.Trie",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "TwoStringsAreClose",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.TwoStringsAreClose",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "UncrossedLines",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.UncrossedLines",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "UnionFind",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.UnionFind",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "UniqueBinary",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.UniqueBinary",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "UniqueEmails",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.UniqueEmails",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "UniquePaths",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.UniquePaths",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "UniquePathsIII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.UniquePathsIII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ValidTriangleNumber",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ValidTriangleNumber",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ValidateBinaryTreeNodes",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ValidateBinaryTreeNodes",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "WaysToSplitArrayInto3SubArrays",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.WaysToSplitArrayInto3SubArrays",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "WordBreak",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.WordBreak",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "WordPattern",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.WordPattern",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "WordSearchI",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.WordSearchI",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "WordSearchII",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.WordSearchII",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "ZigzagConversion",
+            "request": "launch",
+            "mainClass": "com.training.leetcode.ZigzagConversion",
+            "projectName": "leetcode"
+        }
+    ]
+}
